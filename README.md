@@ -6,7 +6,9 @@ This semester I am working on a portfolio to better my data science skills. This
 
 I am hoping this project will help me better understand the full process of using data, and especially help me be a better data storyteller. 
 
+### Links:
 Linkedin: www.linkedin.com/in/sageemerson
+Email: ssollars@nd.edu
 
 ### Skills:
 Python, R, Tableau, PowerBI, VSstudio, Github
