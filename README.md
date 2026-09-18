@@ -11,11 +11,8 @@ Linkedin: www.linkedin.com/in/sageemerson
 ### Skills:
 Python, R, Tableau, PowerBI, VSstudio, Github
 
-<img width="30" height="30" alt="images" src="https://github.com/user-attachments/assets/ab27634e-7bb8-4f20-bec6-bfa2845b86ff" /> <img width="60" height="30" alt="R" src="https://github.com/user-attachments/assets/5d0971a2-d0d6-42e1-b2bd-74443afc5ce3" /> <img width="30" height="30" alt="tableau" src="https://github.com/user-attachments/assets/4431fe6c-ac84-4eb2-8e0d-01f8644b6c0a" /> <img width="30" height="30" alt="pbi" src="https://github.com/user-attachments/assets/1f3f2542-cae3-4026-978b-7ff650d9ec67" />
-
-
-
-
+<img width="40" height="40" alt="images" src="https://github.com/user-attachments/assets/ab27634e-7bb8-4f20-bec6-bfa2845b86ff" /> <img width="70" height="35" alt="R" src="https://github.com/user-attachments/assets/5d0971a2-d0d6-42e1-b2bd-74443afc5ce3" /> <img width="40" height="40" alt="tableau" src="https://github.com/user-attachments/assets/4431fe6c-ac84-4eb2-8e0d-01f8644b6c0a" /> <img width="40" height="40<img width="369" height="137" alt="images-1" src="https://github.com/user-attachments/assets/dfcbcfbf-91ec-4048-9f3f-e3188f435353" />
+" alt="pbi" src="https://github.com/user-attachments/assets/1f3f2542-cae3-4026-978b-7ff650d9ec67" /> <img width="40" height="40" alt="vs" src="https://github.com/user-attachments/assets/7bd2e8b8-f557-4a85-9747-45a4ece1ba0e" /> <img width="70" height="35" alt="images-1" src="https://github.com/user-attachments/assets/575010d9-672e-4d44-ae9a-b1c530b8465b" />
 
 <!--
 **semerson4/semerson4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
