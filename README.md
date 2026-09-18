@@ -9,9 +9,11 @@ I am hoping this project will help me better understand the full process of usin
 Linkedin: www.linkedin.com/in/sageemerson
 
 ### Skills:
-Python, R, tableau, PowerBI, VSstudio, Github
+Python, R, Tableau, PowerBI, VSstudio, Github
 
-<img width="30" height="30" alt="images" src="https://github.com/user-attachments/assets/ab27634e-7bb8-4f20-bec6-bfa2845b86ff" /> <img width="40" height="30" alt="R" src="https://github.com/user-attachments/assets/5d0971a2-d0d6-42e1-b2bd-74443afc5ce3" />
+<img width="30" height="30" alt="images" src="https://github.com/user-attachments/assets/ab27634e-7bb8-4f20-bec6-bfa2845b86ff" /> <img width="60" height="30" alt="R" src="https://github.com/user-attachments/assets/5d0971a2-d0d6-42e1-b2bd-74443afc5ce3" /> <img width="30" height="30" alt="tableau" src="https://github.com/user-attachments/assets/4431fe6c-ac84-4eb2-8e0d-01f8644b6c0a" /> <img width="30" height="30" alt="pbi" src="https://github.com/user-attachments/assets/1f3f2542-cae3-4026-978b-7ff650d9ec67" />
+
+
 
 
 
