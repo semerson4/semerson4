@@ -6,11 +6,13 @@ This semester I am working on a portfolio to better my data science skills. This
 
 I am hoping this project will help me better understand the full process of using data, and especially help me be a better data storyteller. 
 
-linkedin: www.linkedin.com/in/sageemerson
+Linkedin: www.linkedin.com/in/sageemerson
 
 ### Skills:
 Python, R, tableau, PowerBI, VSstudio, Github
-<img width="16" height="16" alt="images" src="https://github.com/user-attachments/assets/ab27634e-7bb8-4f20-bec6-bfa2845b86ff" />
+
+<img width="20" height="20" alt="images" src="https://github.com/user-attachments/assets/ab27634e-7bb8-4f20-bec6-bfa2845b86ff" /> <img width="20" height="15" alt="R" src="https://github.com/user-attachments/assets/5d0971a2-d0d6-42e1-b2bd-74443afc5ce3" />
+
 
 
 <!--
