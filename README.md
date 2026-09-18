@@ -11,7 +11,7 @@ Linkedin: www.linkedin.com/in/sageemerson
 ### Skills:
 Python, R, tableau, PowerBI, VSstudio, Github
 
-<img width="20" height="20" alt="images" src="https://github.com/user-attachments/assets/ab27634e-7bb8-4f20-bec6-bfa2845b86ff" /> <img width="20" height="15" alt="R" src="https://github.com/user-attachments/assets/5d0971a2-d0d6-42e1-b2bd-74443afc5ce3" />
+<img width="30" height="30" alt="images" src="https://github.com/user-attachments/assets/ab27634e-7bb8-4f20-bec6-bfa2845b86ff" /> <img width="40" height="30" alt="R" src="https://github.com/user-attachments/assets/5d0971a2-d0d6-42e1-b2bd-74443afc5ce3" />
 
 
 
