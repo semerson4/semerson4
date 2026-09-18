@@ -8,6 +8,7 @@ I am hoping this project will help me better understand the full process of usin
 
 ### Links:
 Linkedin: www.linkedin.com/in/sageemerson 
+
 Email: ssollars@nd.edu
 
 ### Skills:
