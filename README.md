@@ -14,6 +14,10 @@ Email: ssollars@nd.edu
 ### Skills:
 Python, R, Tableau, PowerBI, VSstudio, Github
 
+### Projects:
+Tidy Data Project: https://github.com/semerson4/Emerson-Data-Science-Portfolio/tree/main/TidyData_Project
+The purpose of this project is to practice and get better at coding tidy data techniques and to review visualizations. This project contributes to my portfolio because understanding how and why to tidy data is a key data science skill.
+
 <img width="40" height="40" alt="images" src="https://github.com/user-attachments/assets/ab27634e-7bb8-4f20-bec6-bfa2845b86ff" /> <img width="60" height="50" alt="rstud" src="https://github.com/user-attachments/assets/9e059d20-9b0a-4593-b526-0cb78af8ba35" /> <img width="40" height="40" alt="tab" src="https://github.com/user-attachments/assets/47a06dd6-8415-49ed-b0dc-0d44b4a0ff03" /> <img width="40" height="40" alt="power" src="https://github.com/user-attachments/assets/81351636-7c48-4721-91be-064416036bac" /> <img width="70" height="35" alt="vscode" src="https://github.com/user-attachments/assets/7803f73f-3265-4ceb-a0d9-f253c9819272" /> <img width="40" height="40" alt="github" src="https://github.com/user-attachments/assets/c192fc12-8d80-4132-b65e-306a2cacbd19" />
 
 
